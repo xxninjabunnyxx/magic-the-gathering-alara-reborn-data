@@ -1,0 +1,114 @@
+---
+object: card
+id: 80a504fb-b3ce-40f9-8fcb-86d5ad038e5d
+oracle_id: 522297b1-493a-4c62-a82a-3017c44183e8
+multiverse_ids:
+- 179628
+mtgo_id: 32228
+mtgo_foil_id: 32229
+tcgplayer_id: 31832
+cardmarket_id: 20941
+name: Vengeful Rebirth
+lang: en
+released_at: '2009-04-30'
+uri: https://api.scryfall.com/cards/80a504fb-b3ce-40f9-8fcb-86d5ad038e5d
+scryfall_uri: https://scryfall.com/card/arb/62/vengeful-rebirth?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/0/80a504fb-b3ce-40f9-8fcb-86d5ad038e5d.jpg?1562642450
+  normal: https://cards.scryfall.io/normal/front/8/0/80a504fb-b3ce-40f9-8fcb-86d5ad038e5d.jpg?1562642450
+  large: https://cards.scryfall.io/large/front/8/0/80a504fb-b3ce-40f9-8fcb-86d5ad038e5d.jpg?1562642450
+  png: https://cards.scryfall.io/png/front/8/0/80a504fb-b3ce-40f9-8fcb-86d5ad038e5d.png?1562642450
+  art_crop: https://cards.scryfall.io/art_crop/front/8/0/80a504fb-b3ce-40f9-8fcb-86d5ad038e5d.jpg?1562642450
+  border_crop: https://cards.scryfall.io/border_crop/front/8/0/80a504fb-b3ce-40f9-8fcb-86d5ad038e5d.jpg?1562642450
+mana_cost: "{4}{R}{G}"
+cmc: 6.0
+type_line: Sorcery
+oracle_text: |-
+  Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's mana value to any target.
+  Exile Vengeful Rebirth.
+colors:
+- G
+- R
+color_identity:
+- G
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: db486ec5-141d-4781-9ee5-5456926934c1
+set: arb
+set_name: Alara Reborn
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/db486ec5-141d-4781-9ee5-5456926934c1
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aarb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/arb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/80a504fb-b3ce-40f9-8fcb-86d5ad038e5d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A522297b1-493a-4c62-a82a-3017c44183e8&unique=prints
+collector_number: '62'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Vance Kovacs
+artist_ids:
+- b5516011-4722-4fc8-8542-102cecc52b71
+illustration_id: 5ec0a5fc-dd03-4087-8c06-ba2398e7007e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15360
+penny_rank: 11127
+prices:
+  usd: '0.10'
+  usd_foil: '0.33'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '0.14'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179628
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Vengeful+Rebirth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Vengeful+Rebirth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Vengeful+Rebirth
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/31832?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Vengeful+Rebirth&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/32228?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

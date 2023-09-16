@@ -1,0 +1,21 @@
+---
+object: set
+id: db486ec5-141d-4781-9ee5-5456926934c1
+code: arb
+mtgo_code: arb
+arena_code: arb
+tcgplayer_id: 5
+name: Alara Reborn
+uri: https://api.scryfall.com/sets/db486ec5-141d-4781-9ee5-5456926934c1
+scryfall_uri: https://scryfall.com/sets/arb
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aarb&unique=prints
+released_at: '2009-04-30'
+set_type: expansion
+card_count: 145
+printed_size: 145
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: ala
+block: Alara
+icon_svg_uri: https://svgs.scryfall.io/sets/arb.svg?1694404800

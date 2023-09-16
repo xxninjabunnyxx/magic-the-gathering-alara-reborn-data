@@ -1,0 +1,117 @@
+---
+object: card
+id: 5ab2ba75-e52e-46f5-8a34-3fe1e07446fd
+oracle_id: 001c6369-df13-427d-89df-718d5c09f382
+multiverse_ids:
+- 180619
+mtgo_id: 32398
+mtgo_foil_id: 32399
+tcgplayer_id: 31830
+cardmarket_id: 20983
+name: Vedalken Heretic
+lang: en
+released_at: '2009-04-30'
+uri: https://api.scryfall.com/cards/5ab2ba75-e52e-46f5-8a34-3fe1e07446fd
+scryfall_uri: https://scryfall.com/card/arb/104/vedalken-heretic?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/a/5ab2ba75-e52e-46f5-8a34-3fe1e07446fd.jpg?1562641484
+  normal: https://cards.scryfall.io/normal/front/5/a/5ab2ba75-e52e-46f5-8a34-3fe1e07446fd.jpg?1562641484
+  large: https://cards.scryfall.io/large/front/5/a/5ab2ba75-e52e-46f5-8a34-3fe1e07446fd.jpg?1562641484
+  png: https://cards.scryfall.io/png/front/5/a/5ab2ba75-e52e-46f5-8a34-3fe1e07446fd.png?1562641484
+  art_crop: https://cards.scryfall.io/art_crop/front/5/a/5ab2ba75-e52e-46f5-8a34-3fe1e07446fd.jpg?1562641484
+  border_crop: https://cards.scryfall.io/border_crop/front/5/a/5ab2ba75-e52e-46f5-8a34-3fe1e07446fd.jpg?1562641484
+mana_cost: "{G}{U}"
+cmc: 2.0
+type_line: Creature — Vedalken Rogue
+oracle_text: Whenever Vedalken Heretic deals damage to an opponent, you may draw a
+  card.
+power: '1'
+toughness: '1'
+colors:
+- G
+- U
+color_identity:
+- G
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: db486ec5-141d-4781-9ee5-5456926934c1
+set: arb
+set_name: Alara Reborn
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/db486ec5-141d-4781-9ee5-5456926934c1
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aarb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/arb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5ab2ba75-e52e-46f5-8a34-3fe1e07446fd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A001c6369-df13-427d-89df-718d5c09f382&unique=prints
+collector_number: '104'
+digital: false
+rarity: rare
+flavor_text: '"Etherium clouded my eyes, clogged my ears, desensitized my skin. Now
+  that I can feel, I can begin to learn."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Staples
+artist_ids:
+- 93d65564-bf00-447b-8406-e2031f03b6b1
+illustration_id: 9ee4986a-bcc6-4a22-af7d-aa1b5d6881a5
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18920
+penny_rank: 8198
+prices:
+  usd: '0.23'
+  usd_foil: '0.56'
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: '0.50'
+  tix: '0.01'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=180619
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Vedalken+Heretic&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Vedalken+Heretic&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Vedalken+Heretic
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/31830?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Vedalken+Heretic&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/32398?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

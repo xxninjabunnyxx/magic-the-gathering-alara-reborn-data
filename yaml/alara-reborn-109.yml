@@ -1,0 +1,119 @@
+---
+object: card
+id: 418f8ecb-544b-430c-8ae9-61aaaf2dfba6
+oracle_id: f0c5864f-83c3-4d99-8f97-0ab92608fff3
+multiverse_ids:
+- 180607
+mtgo_id: 32378
+mtgo_foil_id: 32379
+tcgplayer_id: 31799
+cardmarket_id: 20988
+name: Sen Triplets
+lang: en
+released_at: '2009-04-30'
+uri: https://api.scryfall.com/cards/418f8ecb-544b-430c-8ae9-61aaaf2dfba6
+scryfall_uri: https://scryfall.com/card/arb/109/sen-triplets?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/1/418f8ecb-544b-430c-8ae9-61aaaf2dfba6.jpg?1562640875
+  normal: https://cards.scryfall.io/normal/front/4/1/418f8ecb-544b-430c-8ae9-61aaaf2dfba6.jpg?1562640875
+  large: https://cards.scryfall.io/large/front/4/1/418f8ecb-544b-430c-8ae9-61aaaf2dfba6.jpg?1562640875
+  png: https://cards.scryfall.io/png/front/4/1/418f8ecb-544b-430c-8ae9-61aaaf2dfba6.png?1562640875
+  art_crop: https://cards.scryfall.io/art_crop/front/4/1/418f8ecb-544b-430c-8ae9-61aaaf2dfba6.jpg?1562640875
+  border_crop: https://cards.scryfall.io/border_crop/front/4/1/418f8ecb-544b-430c-8ae9-61aaaf2dfba6.jpg?1562640875
+mana_cost: "{2}{W}{U}{B}"
+cmc: 5.0
+type_line: Legendary Artifact Creature — Human Wizard
+oracle_text: At the beginning of your upkeep, choose target opponent. This turn, that
+  player can't cast spells or activate abilities and plays with their hand revealed.
+  You may play lands and cast spells from that player's hand this turn.
+power: '3'
+toughness: '3'
+colors:
+- B
+- U
+- W
+color_identity:
+- B
+- U
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: db486ec5-141d-4781-9ee5-5456926934c1
+set: arb
+set_name: Alara Reborn
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/db486ec5-141d-4781-9ee5-5456926934c1
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aarb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/arb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/418f8ecb-544b-430c-8ae9-61aaaf2dfba6/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af0c5864f-83c3-4d99-8f97-0ab92608fff3&unique=prints
+collector_number: '109'
+digital: false
+rarity: mythic
+flavor_text: They are the masters of your mind.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Staples
+artist_ids:
+- 93d65564-bf00-447b-8406-e2031f03b6b1
+illustration_id: fa289680-319e-49b2-89fb-291dfcd6c025
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 6330
+penny_rank: 11709
+prices:
+  usd: '4.48'
+  usd_foil: '28.73'
+  usd_etched: 
+  eur: '1.50'
+  eur_foil: '22.70'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=180607
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sen+Triplets&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sen+Triplets&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sen+Triplets
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/31799?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sen+Triplets&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/32378?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
